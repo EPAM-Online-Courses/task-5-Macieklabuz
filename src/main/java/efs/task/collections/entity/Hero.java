@@ -1,4 +1,5 @@
 package efs.task.collections.entity;
+
 import java.util.Objects;
 
 public class Hero {
@@ -34,6 +35,7 @@ public class Hero {
     public int hashCode() {
         return Objects.hash(name, heroClass);
     }
+
 
     @Override
     public String toString() {
