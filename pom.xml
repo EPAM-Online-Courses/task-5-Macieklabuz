@@ -9,16 +9,16 @@
     <version>1.0.0</version>
 
     <properties>
-        <project.java.version>11</project.java.version>
+        <project.java.version>17</project.java.version>
         <maven.compiler.release>${project.java.version}</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-        <version.plugin.maven.compiler>3.9.0</version.plugin.maven.compiler>
-        <version.plugin.maven.surefire>3.0.0-M5</version.plugin.maven.surefire>
+        <version.plugin.maven.compiler>3.11.0</version.plugin.maven.compiler>
+        <version.plugin.maven.surefire>3.0.0-M9</version.plugin.maven.surefire>
 
-        <version.depenency.junit.jupiter>5.8.2</version.depenency.junit.jupiter>
-        <version.depenency.assertj.core>3.22.0</version.depenency.assertj.core>
+        <version.depenency.junit.jupiter>5.9.2</version.depenency.junit.jupiter>
+        <version.depenency.assertj.core>3.24.2</version.depenency.assertj.core>
     </properties>
 
     <dependencies>
