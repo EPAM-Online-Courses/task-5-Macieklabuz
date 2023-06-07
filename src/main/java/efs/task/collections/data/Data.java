@@ -1,5 +1,7 @@
 package efs.task.collections.data;
 
+
+
 /**
  * NIE MODYFIKOWAC !!!.
  */
